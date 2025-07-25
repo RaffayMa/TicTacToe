@@ -1,0 +1,14 @@
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/bin/Debug/net9.0/tictactoe_logic
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/bin/Debug/net9.0/tictactoe_logic.deps.json
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/bin/Debug/net9.0/tictactoe_logic.runtimeconfig.json
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/bin/Debug/net9.0/tictactoe_logic.dll
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/bin/Debug/net9.0/tictactoe_logic.pdb
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/tictactoe_logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/tictactoe_logic.AssemblyInfoInputs.cache
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/tictactoe_logic.AssemblyInfo.cs
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/tictactoe_logic.csproj.CoreCompileInputs.cache
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/tictactoe_logic.dll
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/refint/tictactoe_logic.dll
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/tictactoe_logic.pdb
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/tictactoe_logic.genruntimeconfig.cache
+/Users/muhammadraffaymagoon/Desktop/Projects/games/tictactoe_logic/obj/Debug/net9.0/ref/tictactoe_logic.dll
